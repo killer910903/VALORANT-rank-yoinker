@@ -95,7 +95,7 @@
  - [Valorant-API.com](https://valorant-api.com/)
  - [Hamper](https://hamper.dev/)
  - [D3CRYPT](https://d3crypt360.pages.dev/)
- - [Pika Development]((https://discord.gg/rtsWs2UWX8))
+ - [Pika Development](https://discord.gg/rtsWs2UWX8)
  
 ## 免責聲明
 
