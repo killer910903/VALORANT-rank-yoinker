@@ -37,28 +37,30 @@
 ### 你必須照著下方步驟:
 
 1) 下載 [Microsoft Visual C++ Libraries](https://github.com/abbodi1406/vcredist/releases)
-2) 下載 [最新版本](https://github.com/isaacKenyon/valorant-rank-yoinker/releases/latest).
-3) Extract **all** files.
-4) Run vRY.exe.
+2) 下載 [最新版本](https://github.com/killer910903/VALORANT-rank-yoinker/releases/tag/2.60).
+3) 解壓縮 **所有** 檔案.
+4) 啟動 vRY.exe.
 
-### Running from source:
+### 從原代碼運行(不推薦):
 
-1) Download [Python 3.10](https://www.python.org/downloads/release/python-3100/), make sure it is added to the PATH. (This is an option on installation.)
-   1) Any Python version post 3.10 should work.
-2) Download the [source](https://github.com/isaacKenyon/VALORANT-rank-yoinker/archive/refs/heads/main.zip).
-3) Open a terminal within the source folder.
+1) 下載 [Python 3.10](https://www.python.org/downloads/release/python-3100/)。確保它已添加到PATH。(這是安裝時的選項.)
+   1) 3.10 之後的任何 Python 版本都應該可以運作。
+2) 下載 [原始碼]([https://github.com/isaacKenyon/VALORANT-rank-yoinker/archive/refs/heads/main.zip](https://github.com/killer910903/VALORANT-rank-yoinker/archive/refs/heads/main.zip)).
+3) 在該源資料夾中開啟終端.並運行下列指令
 4) `pip install -r requirements.txt`
 5) `main.py`
 
-### Compiling from source:
+### 從原始碼編譯:
 
 1) `pip install cx_Freeze`
 2) `python setup.py build`
-3)  Open the new Build folder and find vRY.exe.
+3)  打開新的Build資料夾並運行vRY.exe
 
-> `-` You can change the desired weapon by editing the gun in `config.json`, or by deleting the file for vRY re-prompt you.
+> `-` 您可以透過在`config.json`中編輯槍來更改所需的武器，或刪除vRY重新提示您的文件.
 
-> `-` View all skins: <https://vry.netlify.app/matchLoadouts>.
+> `-` 查看所有造型: <https://vry.netlify.app/matchLoadouts>.
+
+<!-- 待完成 -->
 
 ### Letting Github Build It:
 
@@ -101,7 +103,7 @@ If you want to make a small change to the application, you can:
     
  Whilst effort has been made to abide by Riot's API rules; you acknowledge that use of this software is done so at your own risk.
 
-
+<!-- 待完成 -->
 [discord-shield]: https://img.shields.io/discord/872101595037446144?color=7289da&label=Support&logo=discord&logoColor=7289da&style=for-the-badge
 [discord-url]: https://discord.gg/HeTKed64Ka
 [discord-banner]: https://discordapp.com/api/guilds/872101595037446144/widget.png?style=banner2
