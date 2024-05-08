@@ -14,10 +14,10 @@
   <ol>
     <li><a href="#關於本專案">關於本專案</a></li>
     <li><a href="#使用方法">使用方法</a></li>
-    <li><a href="#contributing">專案貢獻</a></li>
-    <li><a href="#contact">聯繫我們</a></li>
-    <li><a href="#acknowledgements">致謝名單</a></li>
-    <li><a href="#disclaimer">免責聲明</a></li>
+    <li><a href="#貢獻">專案貢獻</a></li>
+    <li><a href="#聯繫我們">聯繫我們</a></li>
+    <li><a href="#致謝名單">致謝名單</a></li>
+    <li><a href="#免責聲明">免責聲明</a></li>
   </ol>
 
     
@@ -62,51 +62,51 @@
 
 <!-- 待完成 -->
 
-### Letting Github Build It:
+### 讓 Github 編譯:
 
-The latest commits to the `main` branch will be built by a [Github Actions](https://github.com/isaacKenyon/VALORANT-rank-yoinker/actions) workflow 
-and a successful build should result in a compiled artifact that you can download and try out.
-See the [Actions tab](https://github.com/isaacKenyon/VALORANT-rank-yoinker/actions), click on the `Build` workflow, 
-select a particular workflow run, and it should have an artifact available for download. 
+對「main」分支的最新提交將由 [Github Actions](https://github.com/isaacKenyon/VALORANT-rank-yoinker/actions) 進行編譯。
+成功編譯應該會產生一個編譯好的文件，您可以下載並試用。
+查看 [Actions tab](https://github.com/isaacKenyon/VALORANT-rank-yoinker/actions)，點選 `Build` 工作流程， 
+選擇特定的工作流程運行，它應該有一個可供下載的工件。 
 
-If you want to make a small change to the application, you can:
-1) [Fork](https://github.com/isaacKenyon/VALORANT-rank-yoinker/fork) this project.
-2) Change the code in your forked repository.
-3) Let the Github Actions workflow build vRY.exe for you.
-4) Download it and test it.
-5) Submit a Pull Request if you would like your change included in future releases.
+如果您想對應用程式進行一些小更改，您可以：
+1) [Fork](https://github.com/isaacKenyon/VALORANT-rank-yoinker/fork) 這個專案。
+2) 更改分叉儲存庫中的程式碼.
+3) 讓 Github Actions 工作流程為您建置 vRY.exe。
+4) 下載並測試他。
+5) 如果您希望您的變更包含在未來版本中，請提交拉取請求。
 
-## What about that Tweet?
+## 官方聲明不能使用第三方程式?
 
- The [Tweet](https://twitter.com/PlayVALORANT/status/1539728676815642624), which details Riot's API policies, outlines how
- applications are not allowed to expose data hidden by the game client. As of Version 1.262, vRY respects streamer mode.
+ 在 [這則推文](https://twitter.com/PlayVALORANT/status/1539728676815642624), 詳細介紹了 Riot 的 API 政策，說明不允許應用程式暴露遊戲客戶端隱藏的資料。從版本 1.262 開始，vRY 就醫值遵守著這項政策。
+## 專案貢獻
 
-## Contributing
-
- Any contributions you make are **greatly appreciated**.
+ - 感謝[原作者zayKenyon](https://github.com/zayKenyon)開發這項[專案](https://github.com/zayKenyon/VALORANT-rank-yoinker)。
+ - 感謝[Pika Development](https://discord.gg/rtsWs2UWX8)翻譯這項專案。
  
-## Contact 
+## 聯繫我們 
 
- Join the community discord:         
+ 加入官方Discord群組:         
  
 [![Discord Banner 2][discord-banner]][discord-url]
 
-## Acknowledgements
+## 致謝名單
 
  - [Valorant-API.com](https://valorant-api.com/)
  - [Hamper](https://hamper.dev/)
  - [D3CRYPT](https://d3crypt360.pages.dev/)
+ - [Pika Development]((https://discord.gg/rtsWs2UWX8))
  
-## Disclaimer
+## 免責聲明
 
- THIS PROJECT IS NOT ASSOCIATED OR ENDORSED BY RIOT GAMES. Riot Games, and all associated properties are trademarks or registered trademarks of Riot Games, Inc.
+ 本專案與 Riot Games 沒有關係或認可。Riot Games 及所有相關財產均為 Riot Games, Inc. 的商標或註冊商標。
     
- Whilst effort has been made to abide by Riot's API rules; you acknowledge that use of this software is done so at your own risk.
+ 雖然本專案已盡力遵守 Riot 的 API 規則；但您使用本軟體的風險必須由您自行承擔。
 
 <!-- 待完成 -->
 [discord-shield]: https://img.shields.io/discord/872101595037446144?color=7289da&label=Support&logo=discord&logoColor=7289da&style=for-the-badge
 [discord-url]: https://discord.gg/HeTKed64Ka
-[discord-banner]: https://discordapp.com/api/guilds/872101595037446144/widget.png?style=banner2
+[discord-banner]: https://discordapp.com/api/guilds/872101595037446144/widget.png?style=banner1
 
 [downloads-shield]: https://img.shields.io/github/downloads/zayKenyon/VALORANT-rank-yoinker/total?style=for-the-badge&logo=github
 [downloads-url]: https://github.com/zayKenyon/VALORANT-rank-yoinker/releases/latest
