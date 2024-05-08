@@ -2,39 +2,42 @@
     <a href="https://github.com/isaacKenyon/valorant-rank-yoinker/">
         <img src="assets/Logo.png" alt="Logo" width="160" height="160">
     </a>
-<h5 align="center"> VALORANT rank yoinker</h5>
+<h5 align="center"> VALORANT rank yoinker 繁體中文版</h5>
+
+> [!IMPORTANT]
+> 請務必先開啟您的特戰英豪在啟動主程式.
 
 [![Discord][discord-shield]][discord-url]
 [![Downloads][downloads-shield]][downloads-url]
     
  
   <ol>
-    <li><a href="#about-the-project">About The Project</a></li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
-    <li><a href="#disclaimer">Disclaimer</a></li>
+    <li><a href="#關於本專案">關於本專案</a></li>
+    <li><a href="#使用方法">使用方法</a></li>
+    <li><a href="#contributing">專案貢獻</a></li>
+    <li><a href="#contact">聯繫我們</a></li>
+    <li><a href="#acknowledgements">致謝名單</a></li>
+    <li><a href="#disclaimer">免責聲明</a></li>
   </ol>
 
     
-## About The Project
+## 關於本專案
 
  ![Screenshot](assets/Example.png)
  ![Skin Showcase Image](assets/SkinShowcase.png)
 
-|Their Queue|Current Skin|Current Rank|Rank Rating|Peak Rank|Account Level|
+|玩家組隊|使用造型|當前牌位|牌位評分|最高牌位|玩家等級|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |![Parties](assets/Party.png)|![Skin](assets/Skin.png)|![Rank](assets/Rank.png)|![Rating](assets/Rating.png)|![Peak](assets/PeakRank.png)|![Level](assets/Level.png)|
     
 
-## Usage
- **VALORANT must be open**.
+## 使用方法
+ **VALORANT 必須開啟!**.
 
-### Bundled Release:
+### 你必須照著下方步驟:
 
-1) Download [Microsoft Visual C++ Libraries](https://github.com/abbodi1406/vcredist/releases)
-2) Download the [release](https://github.com/isaacKenyon/valorant-rank-yoinker/releases/latest).
+1) 下載 [Microsoft Visual C++ Libraries](https://github.com/abbodi1406/vcredist/releases)
+2) 下載 [最新版本](https://github.com/isaacKenyon/valorant-rank-yoinker/releases/latest).
 3) Extract **all** files.
 4) Run vRY.exe.
 
