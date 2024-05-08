@@ -109,4 +109,4 @@
 [discord-banner]: https://discordapp.com/api/guilds/872101595037446144/widget.png?style=banner1
 
 [downloads-shield]: https://img.shields.io/github/downloads/zayKenyon/VALORANT-rank-yoinker/total?style=for-the-badge&logo=github
-[downloads-url]: https://github.com/zayKenyon/VALORANT-rank-yoinker/releases/latest
+[downloads-url]: https://github.com/killer910903/VALORANT-rank-yoinker/releases/tag/2.60
