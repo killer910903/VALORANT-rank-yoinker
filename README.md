@@ -78,7 +78,7 @@
 
 ## 官方聲明不能使用第三方程式?
 
- 在 [這則推文](https://twitter.com/PlayVALORANT/status/1539728676815642624), 詳細介紹了 Riot 的 API 政策，說明不允許應用程式暴露遊戲客戶端隱藏的資料。從版本 1.262 開始，vRY 就醫值遵守著這項政策。
+ 在 [這則推文](https://twitter.com/PlayVALORANT/status/1539728676815642624), 詳細介紹了 Riot 的 API 政策，並說明了不被允許應用程式暴露遊戲客戶端隱藏的資料。從版本 1.262 開始，vRY 就一直遵守著這項政策。
 ## 專案貢獻
 
  - 感謝[原作者zayKenyon](https://github.com/zayKenyon)開發這項[專案](https://github.com/zayKenyon/VALORANT-rank-yoinker)。
