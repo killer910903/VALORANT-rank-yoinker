@@ -2,7 +2,7 @@
     <a href="https://github.com/isaacKenyon/valorant-rank-yoinker/">
         <img src="assets/Logo.png" alt="Logo" width="160" height="160">
     </a>
-<h5 align="center"> VALORANT rank yoinker 繁體中文版</h5>
+<h5 align="center"> VALORANT rank yoinker 繁體中文版 BY.Pika Development</h5>
 
 > [!IMPORTANT]
 > 請務必先開啟您的特戰英豪在啟動主程式.
@@ -32,7 +32,7 @@
     
 
 ## 使用方法
- **VALORANT 必須開啟!**.
+ **VALORANT 必須開啟!**
 
 ### 你必須照著下方步驟:
 
